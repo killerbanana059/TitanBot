@@ -211,7 +211,7 @@ export const botConfig = {
       none: {
         emoji: "⚪",
         color: "#95A5A6",
-        label: "Ownership Needed",
+        label: "None",
       },
       low: {
         emoji: "🟢",
