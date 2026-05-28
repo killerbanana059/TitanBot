@@ -25,9 +25,9 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "Made with ❤️",
+        name: "ERLC Code: MIURP",
         // Activity type number (0 = Playing).
-        type: 0, 
+        type: 1, 
       },
     ],
   },
@@ -211,7 +211,7 @@ export const botConfig = {
       none: {
         emoji: "⚪",
         color: "#95A5A6",
-        label: "None",
+        label: "Offline",
       },
       low: {
         emoji: "🟢",
